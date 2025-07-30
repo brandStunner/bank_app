@@ -1,4 +1,5 @@
-#Overview
+# Overview
+
 This is a beginner-friendly command-line bank application written in Python using only basic functions and a wrapper dictionary for managing state. The app allows users to create bank accounts, deposit and withdraw money, check balances, and view all accounts.
 
 Features
