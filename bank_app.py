@@ -68,7 +68,7 @@ def view_all_accounts():
 # Main Menu Loop
 def main():
     while True:
-        print("==== Welcome to the Bank App ====")
+        print("------------------ Welcome to the Bank App ------------------------")
         print("1. Create Account")
         print("2. Deposit Money")
         print("3. Withdraw Money")
