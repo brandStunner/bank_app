@@ -38,4 +38,4 @@ Follow the on-screen menu to perform actions
 bank_app.py   # Main Python script
 README.md     # This file
 ## Notes
-This app is intended for learning purposes and basic practice with functions, dictionaries, and user input in Python. It does not persist data between runs or use advanced features like classes or file storage.
+This app is intended for learning purposes and basic practice with functions, dictionaries, and user input in Python. It does not use real data or use advanced features like classes or file storage.
